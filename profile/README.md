@@ -30,7 +30,7 @@
 ### Market Operations
 |Application|Repo|Description|
 |-----------|----|-----------|
-|Markets Dashboard|[Link](https://github.com/ArevonEnergy/arevonmarkets-dashboard-project)||
+|Arbidder|[Link](https://github.com/ArevonEnergy/arevonmarkets-dashboard-project)||
 |Internal DB Connector|[Link](https://github.com/ArevonEnergy/internal-db-connector)||
 |Arevon Battery|[Link](https://github.com/ArevonEnergy/arevon-battery)||
 |Tenaska Connector|[Link](https://github.com/ArevonEnergy/tenaska-connector)||
