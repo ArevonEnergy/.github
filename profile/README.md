@@ -45,3 +45,8 @@
 |Application|Repo|
 |-----------|----|
 |DevPerfEng|[Link](https://github.com/ArevonEnergy/DevPerfEng)|
+|Unity Playground|[Link](https://github.com/ArevonEnergy/Unity_Playground)|
+|BESS Playground|[Link](https://github.com/ArevonEnergy/BESS_Playground)|
+|Forecast Playground|[Link](https://github.com/ArevonEnergy/Forecast_Playground)|
+|PowerSight|[Link](https://github.com/ArevonEnergy/PowerSight)|
+
