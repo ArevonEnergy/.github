@@ -17,6 +17,13 @@
 |DB Helper|[Link](https://github.com/ArevonEnergy/database-interface)|Library to help with connecting to MongoDB time series database|
 |Pharos Examples|[Link](https://github.com/ArevonEnergy/pharos-examples)|Examples of how to connect to MongoDB time series database|
 
+### Data Platform (Cold layer Data Lake)
+
+|Application|Repo|Description|
+|-----------|----|-----------|
+|AWS Raw Layer|[Link](https://github.com/ArevonEnergy/aws_backfill_raw_ingestion)|AWS-based raw data ingestion platform for Unity APM, CAISO ADS etc. Writes source-level time-series data, metadata, null-rate reports, and run metrics into the S3 Raw Layer for historical backfill and recurring ingestion.|
+|AWS Curated Layer|[Link](https://github.com/ArevonEnergy/aws_curated_layer)|Standardizes Raw Layer telemetry into curated, Athena-queryable device-level datasets with canonical signal names, device metadata, validation flags, and daily data-quality summaries.|
+
 ### Durins Bane
 |Application|Repo|
 |-----------|----|
