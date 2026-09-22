@@ -48,6 +48,7 @@
 |Unity Playground|[Link](https://github.com/ArevonEnergy/Unity_Playground)|
 |BESS Playground|[Link](https://github.com/ArevonEnergy/BESS_Playground)|
 |Forecast Playground|[Link](https://github.com/ArevonEnergy/Forecast_Playground)|
+|Snowflake Playground (Tesla Data)|[Link](https://github.com/ArevonEnergy/Snowflake-Playground)|
 |PowerSight|[Link](https://github.com/ArevonEnergy/PowerSight)|
 |Smart Events|[Link](https://github.com/ArevonEnergy/smart_alert_events)|
 
