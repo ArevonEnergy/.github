@@ -5,7 +5,7 @@
 |-----------|----|-----------|
 |Cloud Infrastructure|[Link](https://github.com/ArevonEnergy/terraform-shared)|Arevon cloud infrastructure management|
 
-### Palantir / Pharos
+### Data Pipeline
 |Application|Repo|Description|
 |-----------|----|-----------|
 |Design Doc|[Link](https://github.com/ArevonEnergy/data-pipeline-docs)|Main design document|
