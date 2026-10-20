@@ -8,6 +8,13 @@
 ### Palantir / Pharos
 |Application|Repo|Description|
 |-----------|----|-----------|
+|Design Doc|[Link](https://github.com/ArevonEnergy/data-pipeline-docs)|Main design document|
+|N3uron simulator|[Link](https://github.com/ArevonEnergy/n3sim)|N3uron simulator|
+|Writer simulator|[Link](https://github.com/ArevonEnergy/n3)|Writer service simulator|
+
+### Palantir / Pharos
+|Application|Repo|Description|
+|-----------|----|-----------|
 |UI|[Link](https://github.com/ArevonEnergy/palantir-ui)|Frontend of Palantir application|
 |API|[Link](https://github.com/ArevonEnergy/palantir-api)|Backend of Palantir application|
 
