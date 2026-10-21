@@ -5,10 +5,11 @@
 |-----------|----|-----------|
 |Cloud Infrastructure|[Link](https://github.com/ArevonEnergy/terraform-shared)|Arevon cloud infrastructure management|
 
-### Data Pipeline
+### Ossus
 |Application|Repo|Description|
 |-----------|----|-----------|
 |Design Doc|[Link](https://github.com/ArevonEnergy/data-pipeline-docs)|Main design document|
+|Telemetry Pipeline|[Link](https://github.com/ArevonEnergy/ossus-telemetry-pipeline)|Telemetry data pipeline moving data from edge to historian|
 |N3uron simulator|[Link](https://github.com/ArevonEnergy/n3sim)|N3uron simulator|
 |Writer simulator|[Link](https://github.com/ArevonEnergy/n3)|Writer service simulator|
 
